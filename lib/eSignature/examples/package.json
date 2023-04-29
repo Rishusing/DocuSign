@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "docusign-esign": "^6.2.0",
+    "fs-extra": "^11.1.1"
+  }
+}
